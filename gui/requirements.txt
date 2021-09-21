@@ -6,7 +6,7 @@ lxml
 opencv-contrib-python-headless
 pandas
 pyside2
-python-magic
+python-libmagic
 rawpy
 scikit-image
 scikit-learn
